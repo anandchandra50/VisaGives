@@ -7,7 +7,7 @@ Anand Chandra, Avi Bomb, Caitlin Dooley, Gage Benham, Miranda Tang, Tiffany Phan
 Build a solution that leverages Visa APIs to help consumers/cardholders adjust to disruptions caused by COVID-19 and beyond.
 
 ## Our solution
-Visa Gives is a web and mobile app that empowers users to discover and donate to nonprofits, charities, and businesses. Our mission is to make it easier for people to help those in need.
+Visa Gives is a web and cross platform mobile app that empowers users to discover and donate to nonprofits, charities, and businesses. Our mission is to make it easier for people to help those in need.
 
 ## Access the website here
 https://tiffanyphan.dev/Visa-Gives/
@@ -33,7 +33,7 @@ https://tiffanyphan.dev/Visa-Gives/
 
 https://github.com/TiffanyVPhan/Visa-Gives
 
-### Mobile Front-End <img align="right" width="200" height="400" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
+### Mobile Front-End <img align="right" width="250" height="500" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
 https://github.com/GB1999/Visa_Hackathon_2020 
 
 ### Backend
@@ -54,3 +54,13 @@ https://github.com/AviBomb/Visa_Hackathon_LoginAuthentication
 **Populating the Firebase_Database with Users Entries**
 
 https://github.com/GB1999/Firebase_Generate_User_Data
+
+## Usage Guide
+
+* Web Page
+
+https://youtu.be/FzdL6w693Xk
+
+* Cross Platform Mobile App
+
+https://youtu.be/rAOT2gNar0o
