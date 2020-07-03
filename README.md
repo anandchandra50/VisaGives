@@ -11,7 +11,7 @@ Build a solution that leverages Visa APIs to help consumers/cardholders adjust t
 Visa Gives is a web and cross-platform mobile app that empowers users to discover and donate to nonprofits, charities, and businesses. Our mission is to make it easier for people to help those in need.
 
 
-## Access the website here
+## The Website
 https://tiffanyphan.dev/Visa-Gives/
 
 ## Technologies Used
@@ -31,17 +31,9 @@ https://tiffanyphan.dev/Visa-Gives/
 ## Our code
 
 ### Web Front-End
-<kbd>
- <img src="https://github.com/anandchandra50/VisaGives/blob/master/Images/Webpage.png">
-</kbd>
-
 https://github.com/TiffanyVPhan/Visa-Gives
 
 ### Mobile Front-End
-<kbd>
- <img width="250" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
-</kbd>
- 
 https://github.com/GB1999/Visa_Hackathon_2020 
 
 ### Backend
@@ -62,10 +54,18 @@ https://github.com/AviBomb/Visa_Hackathon_LoginAuthentication
 
 ## Demo Videos
 
-* Web
+Web
 
-  https://youtu.be/FzdL6w693Xk
+<kbd>
+ <img width="250" src="https://github.com/anandchandra50/VisaGives/blob/master/Images/Webpage.png">
+</kbd>
 
-* Mobile
+https://youtu.be/FzdL6w693Xk
 
-  https://youtu.be/rAOT2gNar0o
+Mobile
+
+<kbd>
+ <img width="100" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
+</kbd>
+
+https://youtu.be/rAOT2gNar0o
