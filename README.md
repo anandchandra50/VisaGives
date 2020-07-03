@@ -9,9 +9,6 @@ Build a solution that leverages Visa APIs to help consumers/cardholders adjust t
 ## Our solution
 Visa Gives is a web and cross platform mobile app that empowers users to discover and donate to nonprofits, charities, and businesses. Our mission is to make it easier for people to help those in need.
 
-## Access the website here
-https://tiffanyphan.dev/Visa-Gives/
-
 ## Technologies Used
 * **Design**
   * Figma
@@ -59,8 +56,11 @@ https://github.com/GB1999/Firebase_Generate_User_Data
 
 * Web Page
 
-https://youtu.be/FzdL6w693Xk
+  https://youtu.be/FzdL6w693Xk
 
 * Cross Platform Mobile App
 
-https://youtu.be/rAOT2gNar0o
+  https://youtu.be/rAOT2gNar0o
+
+## Access the website here
+https://tiffanyphan.dev/Visa-Gives/
