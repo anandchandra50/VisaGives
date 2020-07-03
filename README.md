@@ -11,16 +11,16 @@ Visa Gives is a web and mobile app that empowers users to discover and donate to
 https://tiffanyphan.dev/Visa-Gives/
 
 ## Technologies Used
-* ##Design
+* **Design**
   * Figma
-* Web Frontend
+* **Web Frontend**
   * Angular
-* Mobile Frontend
+* **Mobile Frontend**
   * Flutter
-* Backend
+* **Backend**
   * Firebase
   * Django
-* API
+* **API**
   * Visa Direct
   * Visa Alias
 
