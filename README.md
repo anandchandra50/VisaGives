@@ -1,4 +1,5 @@
-<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/VISA-GIVES-logo.png">
+<img src="https://github.com/AviBomb/VisaGives/blob/master/Images/VISA-GIVES-logo.png" width="300">
+
 
 # Visa Summer 2020 Intern Hackathon
 Anand Chandra, Avi Bomb, Caitlin Dooley, Gage Benham, Miranda Tang, Tiffany Phan
@@ -26,11 +27,17 @@ Visa Gives is a web and cross platform mobile app that empowers users to discove
 ## Our code
 
 ### Web Front-End
-<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/Webpage.jpg">
+<kbd>
+ <img src="https://github.com/anandchandra50/VisaGives/blob/master/Images/Webpage.png">
+</kbd>
 
 https://github.com/TiffanyVPhan/Visa-Gives
 
-### Mobile Front-End <img align="right" width="250" height="500" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
+### Mobile Front-End
+<kbd>
+ <img width="250" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
+</kbd
+ 
 https://github.com/GB1999/Visa_Hackathon_2020 
 
 ### Backend
