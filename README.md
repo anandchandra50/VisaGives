@@ -26,7 +26,7 @@ Visa Gives is a web and cross platform mobile app that empowers users to discove
 ## Our code
 
 ### Web Front-End
-<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/Webpage.png">
+<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/Webpage.jpg">
 
 https://github.com/TiffanyVPhan/Visa-Gives
 
