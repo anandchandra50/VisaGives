@@ -1,4 +1,4 @@
-![Test Image 1](VISA-GIVES-logo.png)
+<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/VISA-GIVES-logo.png">
 
 # Visa Summer 2020 Intern Hackathon
 Anand Chandra, Avi Bomb, Caitlin Dooley, Gage Benham, Miranda Tang, Tiffany Phan
@@ -29,14 +29,12 @@ https://tiffanyphan.dev/Visa-Gives/
 ## Our code
 
 ### Web Front-End
-![Test Image 2](Webpage.png)
+<img align="left" src="https://github.com/AviBomb/VisaGives/blob/master/Images/Webpage.png">
 
 https://github.com/TiffanyVPhan/Visa-Gives
 
 ### Mobile Front-End
-![Test Image 3](mobile_app.png)
-
-https://github.com/GB1999/Visa_Hackathon_2020
+https://github.com/GB1999/Visa_Hackathon_2020 <img align="right" width="200" height="350" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
 
 ### Backend
 https://github.com/anandchandra50/VisaGivesBackend
