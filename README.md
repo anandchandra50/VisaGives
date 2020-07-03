@@ -40,35 +40,32 @@ https://github.com/TiffanyVPhan/Visa-Gives
 ### Mobile Front-End
 <kbd>
  <img width="250" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
-</kbd
+</kbd>
  
 https://github.com/GB1999/Visa_Hackathon_2020 
 
 ### Backend
-**Visa API's Connecting and Testing**
-
-https://github.com/AviBomb/Visa_Direct_API
-
-**Hosting the API's on the Server in order to easily access them from the website and the mobile application**
-
 https://github.com/anandchandra50/VisaGivesBackend
 
-**Uploading data of Charities on the Platform to the Firebase_Database**
-https://github.com/AviBomb/Visa_Hackathon_DatabaseConnect
+### Utilities
+**Testing - Visa APIs**
+https://github.com/AviBomb/Visa_Direct_API
 
-**Autheticating and Uploading Users Data on the Platform to the Firebase_Database**
-https://github.com/AviBomb/Visa_Hackathon_LoginAuthentication
-
-**Populating the Firebase_Database with Users Entries**
-
+**Testing - Generating Users**
 https://github.com/GB1999/Firebase_Generate_User_Data
 
-## Usage Guide
+**Internal Tool - Add Charity Info to Database**
+https://github.com/AviBomb/Visa_Hackathon_DatabaseConnect
 
-* Web Page
+**Internal Tool - Add Users to Database**
+https://github.com/AviBomb/Visa_Hackathon_LoginAuthentication
+
+## Demo Videos
+
+* Web
 
   https://youtu.be/FzdL6w693Xk
 
-* Cross Platform Mobile App
+* Mobile
 
   https://youtu.be/rAOT2gNar0o
