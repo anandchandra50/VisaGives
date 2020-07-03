@@ -1,6 +1,6 @@
 ![Test Image 1](VISA-GIVES-logo.png)
 
-# Visa Gives — Visa Summer 2020 Intern Hackathon
+# Visa Summer 2020 Intern Hackathon
 Anand Chandra, Avi Bomb, Caitlin Dooley, Gage Benham, Miranda Tang, Tiffany Phan
 
 ## Hackathon Prompt
