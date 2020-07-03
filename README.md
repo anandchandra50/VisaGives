@@ -22,3 +22,9 @@ https://github.com/GB1999/Visa_Hackathon_2020
 
 ### Backend
 https://github.com/anandchandra50/VisaGivesBackend
+
+https://github.com/AviBomb/Visa_Direct_API
+
+https://github.com/AviBomb/Visa_Hackathon_DatabaseConnect
+
+https://github.com/AviBomb/Visa_Hackathon_LoginAuthentication
