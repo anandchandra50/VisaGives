@@ -33,7 +33,7 @@ https://tiffanyphan.dev/Visa-Gives/
 
 https://github.com/TiffanyVPhan/Visa-Gives
 
-### Mobile Front-End <img align="right" width="200" height="400" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
+### Mobile Front-End <img align="right" width="250" height="500" src="https://github.com/AviBomb/VisaGives/blob/master/Images/mobile_app_updated.png">
 https://github.com/GB1999/Visa_Hackathon_2020 
 
 ### Backend
